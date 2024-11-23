@@ -1,5 +1,5 @@
 Hi there! 👋
-I'm Gilbert Kiplangat Korir, a data scientist and machine learning engineer passionate about using data-driven approaches to solve real-world problems. With a background in computer science and a keen interest in statistics, I enjoy working on projects that require a combination of programming, mathematics, and domain expertise.
+I'm Gilbert, a data scientist and machine learning engineer passionate about using data-driven approaches to solve real-world problems. With a background in computer science and a keen interest in statistics, I enjoy working on projects that require a combination of programming, mathematics, and domain expertise.
 
 What I do
 As a data scientist and machine learning engineer, I'm involved in every stage of the data science pipeline, from data collection and cleaning to model development and deployment. I have experience working with a variety of data sources, including structured, unstructured, and time-series data, and have used a range of tools and technologies to extract insights from data, including Python, R, SQL, and NoSQL databases.
